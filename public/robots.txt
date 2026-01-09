@@ -1,0 +1,4 @@
+﻿User-agent: *
+Allow: /
+
+Sitemap: https://site05.360winspt.com/sitemap-index.xml
